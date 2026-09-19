@@ -14,7 +14,6 @@ export const metadata: Metadata = {
   ),
   title: { default: `${site.name} — ${site.fullName}`, template: `%s · ${site.name}` },
   description: site.description,
-  icons: { icon: "/assets/images/logo.png" },
   openGraph: {
     title: `${site.name} — ${site.fullName}`,
     description: site.description,
