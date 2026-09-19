@@ -78,7 +78,9 @@ const Social = z.object({
 
 export async function saveSocials(list: { platform: string; url: string }[]) {
   await requireSuperAdmin();
-  const parsed = z.array(Social).max(20).safeParse(list.filter((s) => s.url.trim()));
+  const blank = list.find((s) => !s.url.trim());
+  if (blank) return { error: `Paste a link for ${blank.platform} (or remove that row).` };
+  const parsed = z.array(Social).max(20).safeParse(list);
   if (!parsed.success) return { error: parsed.error.issues[0].message };
   for (const s of parsed.data) {
     const isEmail = s.platform.toLowerCase() === "email";

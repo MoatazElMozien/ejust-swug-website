@@ -53,6 +53,8 @@ body {
   background-size: 96px 96px, 96px 96px, 24px 24px, 24px 24px;
 }
 
+/* Component classes live in a layer so Tailwind utilities (w-40, py-1.5…) can override them */
+@layer components {
 .label {
   font-family: var(--font-mono);
   font-size: 0.72rem;
@@ -99,6 +101,8 @@ textarea.input { min-height: 7rem; resize: vertical; line-height: 1.55; }
 .btn-ghost:hover:not(:disabled) { border-color: var(--color-fg); }
 .btn-danger { border: 1px solid rgb(229 36 59 / 0.4); color: #ff8595; }
 .btn-danger:hover:not(:disabled) { background: var(--color-brand-soft); }
+
+}
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
