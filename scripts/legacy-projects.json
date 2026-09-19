@@ -1,0 +1,485 @@
+[
+ {
+  "id": 1,
+  "title": "Bucket Elevator",
+  "designer": "Eng. Bahaa Ali",
+  "parts": 106,
+  "status": "Complete",
+  "desc": "A vertical conveying mechanism engineered to transport bulk materials from a lower level to a higher elevation. A compact, chain-driven vertical lift system built for continuous and reliable material handling in industrial and agricultural environments.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/b1.jpg",
+  "images": [
+   "assets/images/b1.jpg",
+   "assets/images/bnew.jpg",
+   "assets/images/b2.jpg",
+   "assets/images/b3.jpg"
+  ],
+  "features": [
+   "Vertical space efficiency — compact frame maximizes lifting height",
+   "Continuous closed-loop chain operation",
+   "Scalable capacity via bucket size and motor power",
+   "Robust 106-part assembly under dynamic loads",
+   "Low maintenance with standardized components",
+   "Applied in grain storage, cement plants, mining"
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Centre Lathe Tailstock",
+  "designer": "Eng. Yehia El Mohammady",
+  "parts": 12,
+  "status": "Complete",
+  "desc": "A precision mechanical assembly engineered to support the free end of a workpiece during machining operations on a conventional centre lathe. A compact, screw-driven linear positioning system built for accurate metal cutting and turning environments.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/tailstock.mp4",
+  "images": [],
+  "features": [
+   "Screw-driven precision for fine quill advancement",
+   "Morse taper interface for concentric tool mounting",
+   "Rigid dual-locking system at quill and bed levels",
+   "Offset capability for taper turning operations",
+   "Compact optimized 12-part assembly",
+   "Used in precision machining workshops and tool rooms"
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Antigravity Table",
+  "designer": "Eng. Hamza Ashraf",
+  "parts": 181,
+  "status": "Complete",
+  "desc": "A visually striking suspension assembly demonstrating balanced tension, chain mechanics, and structural equilibrium. The suspended platform appears to defy gravity through a symmetric arrangement of chains and gear-profile structural plates.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/antigravity.mp4",
+  "images": [],
+  "features": [
+   "Full tensile load path — every member under pure tension",
+   "Symmetric 4-chain layout for uniform load distribution",
+   "Gear-profile plate aesthetics with multiple anchor points",
+   "Modular standardized 15-link chain segments",
+   "Visual antigravity illusion — ideal for display",
+   "181-part precision assembly with detailed connection nodes"
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Jet Engine",
+  "designer": "Eng. Tarek Mohamed",
+  "parts": 3,
+  "status": "Complete",
+  "desc": "A reaction-based thermodynamic propulsion system demonstrating the complete Brayton cycle in a minimalist 3-part assembly. Captures the essential aerodynamic and mechanical behavior of a real gas turbine engine.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/jet.mp4",
+  "images": [
+   "assets/images/jet_img.jpg"
+  ],
+  "features": [
+   "Brayton thermodynamic cycle demonstration",
+   "3-part distilled turbomachinery",
+   "CFD flow simulation ready",
+   "Common axis rotor symmetry",
+   "Educational showcase model"
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Hybrid Wind Street Light",
+  "designer": "Acroty Project Team",
+  "parts": 0,
+  "status": "Complete",
+  "desc": "An innovative battery-free renewable energy system integrating a Savonius-Darrieus hybrid VAWT on a street light pole with pneumatic energy storage, generating stable electrical output without batteries.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/pole_img1.jpg",
+  "images": [
+   "assets/images/pole_img1.jpg",
+   "assets/images/pole_img2.jpg"
+  ],
+  "features": [
+   "Battery-free pneumatic energy buffering",
+   "Hybrid VAWT for all wind speeds",
+   "Pole-integrated compact design",
+   "Dual renewable — wind + solar",
+   "Underground turbine noise isolation"
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Robot Tank",
+  "designer": "Eng. Yehia El Mohammady",
+  "parts": 166,
+  "status": "Complete",
+  "desc": "A compact unmanned ground vehicle (UGV) with differential track drive and a pan-tilt surveillance camera system, engineered for all-terrain mobility, real-time reconnaissance, and modular payload deployment.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/tank_img1.jpg",
+  "images": [
+   "assets/images/tank_img1.jpg",
+   "assets/images/tank_img2.jpg"
+  ],
+  "features": [
+   "Zero-radius differential track drive",
+   "High-traction rubber tracks",
+   "360° pan-tilt surveillance camera",
+   "166-part precision assembly",
+   "Modular armored electronics bay"
+  ]
+ },
+ {
+  "id": 7,
+  "title": "Stunning Shell Light",
+  "designer": "SWUG Design Team",
+  "parts": 0,
+  "status": "Complete",
+  "desc": "A bio-inspired decorative lighting assembly translating logarithmic spiral shell geometry into a precision-modeled CAD fixture. Demonstrates advanced surface modeling and organic form integration in SolidWorks.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/shell.mp4",
+  "images": [],
+  "features": [
+   "Logarithmic spiral shell geometry",
+   "Thin-wall precision surface modeling",
+   "Layered light and shadow gradients",
+   "Parametric scalable design",
+   "Advanced SolidWorks surface techniques"
+  ]
+ },
+ {
+  "id": 8,
+  "title": "Sustainable Smart Bus Stop",
+  "designer": "SWUG Design Team",
+  "parts": 0,
+  "status": "Complete",
+  "desc": "An integrated solar-powered smart urban shelter combining real-time passenger information displays, USB charging stations, LED lighting, and weather protection in a fully energy-independent assembly.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/bus_img1.jpg",
+  "images": [
+   "assets/images/bus_img1.jpg",
+   "assets/images/bus_img2.jpg",
+   "assets/images/bus_img3.jpg",
+   "assets/images/bus_img4.jpg"
+  ],
+  "features": [
+   "Solar-powered full energy autonomy",
+   "Real-time digital passenger displays",
+   "Zero-grid LED night lighting",
+   "Integrated USB charging stations",
+   "Urban-aesthetic structural design"
+  ]
+ },
+ {
+  "id": 9,
+  "title": "Roller Machine",
+  "designer": "Eng. Yehia El Mohammady",
+  "parts": 21,
+  "status": "Complete",
+  "desc": "A compact belt-driven industrial rolling system for continuous surface processing, material flattening, and sheet feeding — engineered with a staged pulley transmission for precise speed and torque control.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/roller_img.jpg",
+  "images": [
+   "assets/images/roller_img.jpg"
+  ],
+  "features": [
+   "21-part lean mechanical design",
+   "Multi-roller uniform nip pressure",
+   "Staged belt-pulley drive system",
+   "Robust welded steel frame",
+   "Transparent safety drive guard"
+  ]
+ },
+ {
+  "id": 10,
+  "title": "Simple Steam Engine",
+  "designer": "Eng. Bahaa Ali",
+  "parts": 7,
+  "status": "Complete",
+  "desc": "A foundational thermodynamic demonstration model converting fuel combustion energy through steam generation, piston-driven linear motion, and crankshaft rotation into continuous mechanical power output.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/steam_img1.jpg",
+  "images": [
+   "assets/images/steam_img1.jpg",
+   "assets/images/steam_img2.jpg",
+   "assets/images/steam_img3.jpg"
+  ],
+  "features": [
+   "Full Brayton-to-Rankine energy chain",
+   "Flywheel rotational energy storage",
+   "Linear-to-rotational crank conversion",
+   "Closed-loop steam cycle operation",
+   "Vertical mechanical power take-off"
+  ]
+ },
+ {
+  "id": 11,
+  "title": "Solar-Assisted FCEV",
+  "designer": "Eng. Hassan Tamer",
+  "parts": 946,
+  "status": "Complete",
+  "desc": "A next-generation Fuel Cell Electric Vehicle integrating hydrogen propulsion, onboard water recovery, solar-assisted electrolysis, and a closed-loop energy cycle — zero emissions, zero large batteries.",
+  "mediaType": "image",
+  "mediaSrc": "assets/images/solar_img.jpg",
+  "images": [
+   "assets/images/solar_img.jpg"
+  ],
+  "features": [
+   "PEM fuel cell — electricity from hydrogen",
+   "Solar roof array for hydrogen regeneration",
+   "Closed-loop water-to-hydrogen recycling",
+   "Zero tailpipe emissions — pure water exhaust",
+   "946-part production-intent assembly"
+  ]
+ },
+ {
+  "id": 12,
+  "title": "Below-Knee Prosthesis",
+  "designer": "Eng. Saif AlEslam",
+  "parts": 70,
+  "status": "Complete",
+  "desc": "A precision-engineered modular assistive mobility device featuring a pneumatic adaptive socket and micro-adjustable height calibration — designed to give amputees a fully personalized, comfortable lower limb replacement.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/prosthesis.mp4",
+  "images": [],
+  "report": {
+   "overview": "The Modular Below-Knee Prosthesis is a 70-part precision assembly that prioritizes individual adaptability at every level — from micro-adjustable length calibration to a pneumatically adaptive socket that dynamically conforms to each user's residual limb anatomy. It balances full weight-bearing structural demands with the modularity needed for long-term personalization.",
+   "principle": "Two integrated mechanisms work in parallel: a precision screw-thread length adjustment system for fine height calibration, and an inflatable pneumatic bladder in the socket that expands to fill the exact contour of the residual limb. Together they ensure a precise macroscopic and microscopic fit — accommodating daily limb volume fluctuations without clinical refitting.",
+   "components": [
+    {
+     "name": "Prosthetic Socket (Upper Frame)",
+     "desc": "The primary interface between the residual limb and the prosthetic structure, transferring all weight-bearing loads. Designed to house the internal pneumatic bladder system."
+    },
+    {
+     "name": "Pneumatic Inflatable Bladder",
+     "desc": "A flexible airtight lining inside the socket walls. When inflated, it expands inward to fill the precise limb contours — eliminating gaps, pressure points, and pistoning motion."
+    },
+    {
+     "name": "Inflation Valve & Pump Mechanism",
+     "desc": "A compact air management system giving the user direct real-time control over socket tightness throughout the day."
+    },
+    {
+     "name": "Screw-Thread Length Adjustment",
+     "desc": "A precision threaded mechanism allowing fine height calibration of the prosthesis for perfect bilateral limb symmetry, optimizing gait, posture, and spinal alignment."
+    },
+    {
+     "name": "Locking Collar & Retention Nut",
+     "desc": "Clamps the threaded length mechanism firmly once the desired adjustment is reached — critical for structural safety under dynamic loading."
+    },
+    {
+     "name": "Structural Pylon (Central Shaft)",
+     "desc": "The primary load-bearing column transmitting compressive forces from socket to foot. Engineered for axial stiffness, fatigue resistance, and minimal weight."
+    },
+    {
+     "name": "Ankle-Foot Assembly",
+     "desc": "The terminal element interfacing with the ground — replicating natural ankle mechanics with energy return at push-off, shock absorption at heel strike, and stable surface contact."
+    },
+    {
+     "name": "Connector Adapters & Coupling Joints",
+     "desc": "Standardized modular interfaces between socket, pylon, and foot allowing individual replacement or upgrade without replacing the full device."
+    },
+    {
+     "name": "Alignment Adjustment Joints",
+     "desc": "Multi-axis elements between pylon and foot allowing angular fine-tuning to distribute ground reaction forces correctly and optimize gait efficiency."
+    },
+    {
+     "name": "Protective Outer Shell",
+     "desc": "A shaped outer casing protecting internal mechanics from dust, moisture, and impact while providing an aesthetically appropriate external appearance."
+    },
+    {
+     "name": "Fasteners, Bearings & Hardware",
+     "desc": "The complete set of 70 precision bolts, nuts, bearing elements, seals, and retaining components maintaining alignment and long-term reliability under cyclic loading."
+    }
+   ]
+  },
+  "features": [
+   "Pneumatic adaptive fit — dynamically conforms to residual limb volume",
+   "Micro-adjustable height calibration for bilateral symmetry",
+   "User-controlled comfort — no clinical intervention needed",
+   "Modular architecture — replace components without replacing the device",
+   "Full weight-bearing structural integrity across 70 precision parts"
+  ]
+ },
+ {
+  "id": 13,
+  "title": "Supercharged V12 Engine",
+  "designer": "Eng. Ziad Hammadi",
+  "parts": 897,
+  "status": "Complete",
+  "desc": "A 897-part fully detailed Supercharged V12 Internal Combustion Engine — one of the most prestigious engine configurations ever built. Twin banks of six cylinders, DOHC four-camshaft layout, forced induction supercharger, and equal-length exhaust headers.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/v12.mp4",
+  "images": [],
+  "report": {
+   "overview": "The Supercharged V12 is a 897-part assembly representing the pinnacle of automotive engineering sophistication. With 12 cylinders in two banks of six at a 60° V-angle, it delivers exceptional power, near-zero vibration, and the signature smooth linear power curve that defines V12 character. The supercharger adds 30–100% additional power over natural aspiration.",
+   "principle": "The V12 operates on the four-stroke Otto cycle across 12 cylinders firing every 60° of crankshaft rotation — producing an almost perfectly continuous power delivery with exceptionally low vibration. The supercharger forces additional compressed air into the combustion chambers, dramatically increasing air-fuel charge density and power output.",
+   "components": [
+    {
+     "name": "Engine Block (V-Configuration)",
+     "desc": "Central structural foundation housing 12 cylinder bores in two banks of six at 60°, providing near-perfect primary and secondary balance without a balance shaft."
+    },
+    {
+     "name": "Cylinder Heads (×2)",
+     "desc": "Two separate DOHC heads atop each bank, each containing combustion chambers, valve seats, valve guides, coolant passages, and multi-valve configuration."
+    },
+    {
+     "name": "Supercharger (Twin-Screw)",
+     "desc": "The visually dominant forced induction unit mounted centrally on top of the intake manifold, feeding pressurized air through dual inlets to increase power density dramatically."
+    },
+    {
+     "name": "Intake Manifold",
+     "desc": "Distributes the pressurized air-fuel mixture evenly across all 12 cylinders with geometry optimized for equal charge distribution and minimal pressure drop."
+    },
+    {
+     "name": "Exhaust Headers (×2 Banks)",
+     "desc": "Equal-length tubular headers — six per bank — ensuring each cylinder's exhaust pulse assists scavenging for maximum volumetric efficiency and power."
+    },
+    {
+     "name": "Timing System & Camshaft Drive",
+     "desc": "Toothed belt and sprocket assembly driving four camshafts in precise synchronization with the crankshaft — two per cylinder bank."
+    },
+    {
+     "name": "Crankshaft",
+     "desc": "Forged steel crankshaft running the full block length, converting the reciprocating motion of 12 pistons into rotational output with precisely calculated counterweights."
+    },
+    {
+     "name": "Pistons, Connecting Rods & Valvetrain",
+     "desc": "12 forged pistons with high-strength connecting rods, plus the full camshaft, tappet, rocker arm, and valve assembly managing gas exchange across all cylinders."
+    },
+    {
+     "name": "Accessory Drive System",
+     "desc": "Belt-driven pulley system powering auxiliary components including alternator, water pump, power steering pump, and supercharger drive from the crankshaft snout."
+    },
+    {
+     "name": "Cooling & Lubrication Systems",
+     "desc": "Integrated coolant passages and high-volume oil pump circulating pressurized lubricant to all bearing surfaces, camshafts, and valvetrain under extreme supercharged loads."
+    }
+   ]
+  },
+  "features": [
+   "897-part production-grade complexity and full mechanical fidelity",
+   "12-cylinder balance — near-zero vibration from perfect force cancellation",
+   "Forced induction supercharger — dramatically elevated power density",
+   "Equal-length exhaust headers for maximum scavenging efficiency",
+   "DOHC four-camshaft configuration for precise 12-cylinder valve timing"
+  ]
+ },
+ {
+  "id": 14,
+  "title": "V6 Engine Assembly",
+  "designer": "SWUG Design Team",
+  "parts": 0,
+  "status": "Complete",
+  "desc": "A detailed V6 internal combustion engine assembly showcasing the six-cylinder V-configuration powerplant — the backbone of performance sedans, sports cars, and modern SUVs worldwide. A study in compact power and engineering balance.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/v6.mp4",
+  "images": [],
+  "report": {
+   "overview": "The V6 engine represents the perfect middle ground between four-cylinder efficiency and eight-cylinder power. With six cylinders arranged in two banks of three, it delivers a compelling balance of compact packaging, smooth operation, and strong power output — making it the most widely used performance engine configuration across the global automotive industry.",
+   "principle": "Operating on the four-stroke cycle, six cylinders fire in a carefully timed sequence to produce smooth, overlapping power strokes. The V-configuration allows a significantly shorter engine length compared to an inline-six while maintaining excellent inherent balance, contributing to both structural rigidity and refined NVH (noise, vibration, harshness) characteristics.",
+   "components": [
+    {
+     "name": "Engine Block (V6 Configuration)",
+     "desc": "Central structural housing for six cylinder bores arranged in two banks of three — providing a compact, stiff structure ideal for transverse or longitudinal mounting."
+    },
+    {
+     "name": "Cylinder Heads (×2)",
+     "desc": "One head per cylinder bank, each containing combustion chambers, intake and exhaust ports, valve seats, and coolant passages."
+    },
+    {
+     "name": "Crankshaft",
+     "desc": "A five-main-bearing or four-main-bearing forged crankshaft converting six pistons' reciprocating motion into rotational output with balanced counterweights."
+    },
+    {
+     "name": "Pistons & Connecting Rods",
+     "desc": "Six forged aluminum pistons connected via steel connecting rods translating combustion pressure into torque at the crankshaft."
+    },
+    {
+     "name": "Valvetrain (DOHC / SOHC)",
+     "desc": "Camshaft-driven intake and exhaust valves controlling the gas exchange process across all six cylinders with precise timing."
+    },
+    {
+     "name": "Intake Manifold",
+     "desc": "Distributes the incoming air-fuel mixture or air charge evenly across all six cylinders for balanced combustion and power output."
+    },
+    {
+     "name": "Exhaust System",
+     "desc": "Tubular exhaust headers collecting combustion gases from each cylinder and routing them to the collector and downstream exhaust system."
+    },
+    {
+     "name": "Timing System",
+     "desc": "Belt or chain-driven timing system synchronizing crankshaft and camshaft rotation to maintain correct valve timing throughout the engine's operating range."
+    },
+    {
+     "name": "Cooling & Lubrication",
+     "desc": "Integrated water jacket coolant passages and pressurized oil lubrication system maintaining thermal and mechanical integrity under full load."
+    }
+   ]
+  },
+  "features": [
+   "Compact V6 packaging — shorter than inline-six with superior rigidity",
+   "Smooth power delivery from overlapping six-cylinder firing sequence",
+   "Balanced V-configuration — excellent inherent primary force cancellation",
+   "Versatile mounting — suits transverse FWD or longitudinal RWD layouts",
+   "Widely deployed in performance sedans, SUVs, and sports cars globally"
+  ]
+ },
+ {
+  "id": 15,
+  "title": "Wankel Rotary Engine",
+  "designer": "SWUG Design Team",
+  "parts": 0,
+  "status": "Complete",
+  "desc": "The legendary Wankel Rotary Engine — a triangular rotor spinning inside an epitrochoidal housing, achieving the complete four-stroke combustion cycle through pure rotational motion. Made famous by Mazda's iconic RX-7 and RX-8, it is one of the most intellectually distinctive mechanical concepts in automotive history.",
+  "mediaType": "video",
+  "mediaSrc": "assets/videos/wankel.mp4",
+  "images": [],
+  "report": {
+   "overview": "The Wankel Engine fundamentally reimagines internal combustion by replacing reciprocating pistons with a continuously rotating triangular rotor. Invented by Felix Wankel in the 1950s and famously commercialized by Mazda in the RX-7 and RX-8, it delivers an exceptionally compact, lightweight, and high-revving power unit with a remarkably smooth power delivery character that no conventional piston engine can replicate.",
+   "principle": "A three-sided Reuleaux triangular rotor orbits within a two-lobed epitrochoidal housing — a mathematically derived shape that maintains perfect sealing contact at all times. Each of the rotor's three faces simultaneously performs a different combustion phase, producing three power strokes per rotor revolution — far more frequent than a four-stroke piston engine — delivering exceptional smoothness and continuous torque.",
+   "components": [
+    {
+     "name": "Epitrochoidal Housing (Rotor Housing)",
+     "desc": "A precisely machined oval chamber following a two-lobed epitrochoidal curve — ensuring the three apex seals maintain continuous contact throughout full rotation to create three isolated combustion chambers."
+    },
+    {
+     "name": "Triangular Rotor",
+     "desc": "The heart of the engine — a three-sided rotor with concave faces serving simultaneously as piston faces for three combustion chambers. Its internal gear meshes with the stationary gear enforcing the 3:1 orbital-to-rotation ratio."
+    },
+    {
+     "name": "Eccentric Shaft (Output Shaft)",
+     "desc": "The functional crankshaft equivalent — directly receiving orbital rotational energy from the rotor and delivering final power output at three times the rotor's orbital frequency."
+    },
+    {
+     "name": "Front & Rear Side Housings",
+     "desc": "Precision-flat end plates sandwiching the rotor housing, carrying the stationary gear, coolant passages, oil seals, and mounting faces for intake and exhaust ports."
+    },
+    {
+     "name": "Apex Seals",
+     "desc": "Three spring-loaded seal blades at each rotor tip — the most mechanically critical components. They maintain gas-tight chamber division as they slide continuously along the housing at high speed."
+    },
+    {
+     "name": "Side Seals & Corner Seals",
+     "desc": "Flat sealing elements on rotor side faces preventing axial gas and oil leakage, with corner seals bridging the junction between apex and side seals."
+    },
+    {
+     "name": "Spark Plugs (Dual per Rotor)",
+     "desc": "Two plugs per rotor — leading and trailing — required because the elongated crescent-shaped combustion chamber cannot be reliably ignited by a single plug at high RPM."
+    },
+    {
+     "name": "Internal Rotor Gear & Stationary Gear",
+     "desc": "A matched gear pair enforcing the precise 3:1 geometric ratio governing rotor orbital motion — ensuring apex seals never lose contact with the housing wall."
+    },
+    {
+     "name": "Intake & Exhaust Ports",
+     "desc": "Fixed ports opened and closed by the passing rotor edges — eliminating the entire valve train mechanism, contributing to the engine's high-RPM capability and mechanical simplicity."
+    },
+    {
+     "name": "Cooling & Lubrication System",
+     "desc": "Coolant passages cast into the housing plus metered oil injection into the intake charge for apex seal lubrication — a design necessity contributing to the engine's characteristic oil consumption."
+    }
+   ]
+  },
+  "features": [
+   "Zero reciprocating mass — no vibration at source, exceptionally smooth power",
+   "Three power strokes per rotor revolution — continuous torque output",
+   "Radically compact packaging — far smaller than equivalent piston engines",
+   "No valve train — fixed ports eliminate camshafts, valves, and springs entirely",
+   "Iconic motorsport legacy — Mazda RX-7, RX-8, and 24h Le Mans victories"
+  ]
+ }
+]

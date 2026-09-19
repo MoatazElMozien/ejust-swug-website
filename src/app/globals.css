@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #07080b;
+  --color-panel: #0d0f14;
+  --color-panel-2: #13161d;
+  --color-line: rgb(255 255 255 / 0.08);
+  --color-line-strong: rgb(255 255 255 / 0.16);
+  --color-fg: #eceef3;
+  --color-muted: #9aa1b2;
+  --color-faint: #636a7b;
+  --color-brand: #e5243b;
+  --color-brand-soft: rgb(229 36 59 / 0.12);
+  --color-navy: #23225e;
+  --color-ok: #34d399;
+  --color-warn: #fbbf24;
+
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk Variable", "Inter Variable", ui-sans-serif, sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, monospace;
+
+  --animate-fade-up: fade-up 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: none; }
+  }
+}
+
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-ink);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-brand);
+  color: white;
+}
+
+/* Fine engineering-paper grid used behind hero sections */
+.bg-blueprint {
+  background-image:
+    linear-gradient(rgb(255 255 255 / 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(255 255 255 / 0.035) 1px, transparent 1px),
+    linear-gradient(rgb(255 255 255 / 0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(255 255 255 / 0.018) 1px, transparent 1px);
+  background-size: 96px 96px, 96px 96px, 24px 24px, 24px 24px;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* Form controls (admin) */
+.input {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-line-strong);
+  background: var(--color-ink);
+  padding: 0.6rem 0.8rem;
+  font-size: 0.9rem;
+  color: var(--color-fg);
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.input:focus {
+  border-color: var(--color-brand);
+  box-shadow: 0 0 0 3px var(--color-brand-soft);
+}
+.input::placeholder { color: var(--color-faint); }
+textarea.input { min-height: 7rem; resize: vertical; line-height: 1.55; }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background-color 0.15s, border-color 0.15s, color 0.15s, opacity 0.15s;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.btn-primary { background: var(--color-brand); color: white; }
+.btn-primary:hover:not(:disabled) { background: #cc1d32; }
+.btn-ghost { border: 1px solid var(--color-line-strong); color: var(--color-fg); }
+.btn-ghost:hover:not(:disabled) { border-color: var(--color-fg); }
+.btn-danger { border: 1px solid rgb(229 36 59 / 0.4); color: #ff8595; }
+.btn-danger:hover:not(:disabled) { background: var(--color-brand-soft); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
